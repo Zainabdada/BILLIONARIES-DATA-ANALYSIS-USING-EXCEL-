@@ -19,6 +19,6 @@ This analysis was carried out to drill into top billionaires across the world to
 
 #### Data Analysis 
 - conducted descriptive statitics
-- used pivoyt table for billionaires age grouping
+- used pivot table for billionaires age grouping
 - determined top 10 billionaires and the sum of thier worth
 - identified higest age range of most billionaires
